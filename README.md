@@ -39,6 +39,7 @@ _{Leave nothing to chance. It should be easy for anyone to run your app. All the
 
 ##Notes
 
+*_at 1 point I did break .veggies -- tried to comment out code above and ended up commenting out everything below_
 *_css rule: '.leftbar' bugs me; I want to play with width, display, and box-sizing to see how they effect the page look._
 *_I plan to read more about the box model and play with it on a branch of this project later_
 
