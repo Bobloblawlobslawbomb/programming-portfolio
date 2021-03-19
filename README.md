@@ -12,9 +12,11 @@
 *_VS Code_
 *_Chrome_
 *_Git Hub_
+*_HTML_
+*_CSS_
+*_Bootstrap_
 *_Human Brain_
 *_the Collective Conscious_
-
 
 ##Description
 _A showcase of the works in progress and finished projects from Giancarlo Vigneri._
@@ -33,10 +35,14 @@ _{Leave nothing to chance. It should be easy for anyone to run your app. All the
 
 ##Known Bugs
 
-*_Any known issues_
-*_should go here_
+*_none_
 
-##copyright {year} Giancarlo Vigneri
+##Notes
+
+*_css rule: '.leftbar' bugs me; I want to play with width, display, and box-sizing to see how they effect the page look._
+*_I plan to read more about the box model and play with it on a branch of this project later_
+
+##copyright 2021 Giancarlo Vigneri
 
 ##License [GPL] (https://choosealicense.com/licenses/gpl-3.0/)
 
