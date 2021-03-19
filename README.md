@@ -28,7 +28,7 @@ _A showcase of the works in progress and finished projects from Giancarlo Vigner
 3. Double click index.html or right-click, (select 'open with...') and choose which program to open or view files
 4. Profit 
 
-* (https://github.com/Bobloblawlobslawbomb.github.io/programming-portfolio)
+* (https://bobloblawlobslawbomb.github.io/programming-portfolio/)
 
 ##Known Bugs
 
