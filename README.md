@@ -1,22 +1,23 @@
-#_{Application Name}_
+#_Programming Portfolio_
 
-####_{Brief description of application}_
+####_This will act as a landing page for my current and future projects and as a timeline of my growth in the industry_
 
-####By _**{List of Contributors}**_
+####By _**Giancarlo Vigneri**_
 
-###Special thanks to _**{Brent Hubbard, Jonathon Stull, Patrick Lee, and the Epicodus Staff}**_
+###Special thanks to _**Brent Hubbard, Jonathon Stull, Patrick Lee, and the Epicodus Staff**_
 
 ##Technologies Used
 
-*_list all_
-*_the major tech(s)_
-*_used in the project_
-*_in these_
-*_cool lists_
+*_Git Bash_
+*_VS Code_
+*_Chrome_
+*_Git Hub_
+*_Human Brain_
+*_the Collective Conscious_
 
 
 ##Description
-_{This is a detailed descrition of the application. Give as many details as needed to explain to users what the application does. Also whatever information YOU want other devs to have - like anything, kinda crazy...}
+_A showcase of the works in progress and finished projects from Giancarlo Vigneri._
 
 ##Setup/Installation Requirements
 
