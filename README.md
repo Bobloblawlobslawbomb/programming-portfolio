@@ -1,4 +1,4 @@
-#_Programming Portfolio_
+#_GV Programming Portfolio_
 
 ####_This will act as a landing page for my current and future projects and as a timeline of my growth in the industry_
 
@@ -18,16 +18,15 @@
 *_Human Brain_
 *_the Collective Conscious_
 
-##Description
+##Description:
 _A showcase of the works in progress and finished projects from Giancarlo Vigneri._
 
 ##Setup/Installation Requirements
 
-*_This is the place_
-*_where one would_
-*_list setup instructions_
-*_in a simple and easy_
-*_to understand format_
+1. Navigate to (https://github.com/Bobloblawlobslawbomb/programming-portfolio)
+2. Clone or download 'programming-portfolio'
+3. Double click index.html or right-click, (select 'open with...') and choose which program to open or view files
+4. Profit 
 
 _{Leave nothing to chance. It should be easy for anyone to run your app. All the things necessary to make it happen, including otherr software or hardware setups needed. A good idea may be to delete the folder from your local machine and re-clone the project from Github and writting down all the necessary steps to get the application working again}_
 
@@ -39,9 +38,9 @@ _{Leave nothing to chance. It should be easy for anyone to run your app. All the
 
 ##Notes
 
-*_at 1 point I did break .veggies -- tried to comment out code above and ended up commenting out everything below_
-*_css rule: '.leftbar' bugs me; I want to play with width, display, and box-sizing to see how they effect the page look._
-*_I plan to read more about the box model and play with it on a branch of this project later_
+1._at 1 point I did break .veggies -- tried to comment out code above and ended up commenting out everything below_
+2._css rule: '.leftbar' bugs me; I want to play with width, display, and box-sizing to see how they effect the page look._
+3._I plan to read more about the box model and play with it on a branch of this project later_
 
 ##copyright 2021 Giancarlo Vigneri
 
