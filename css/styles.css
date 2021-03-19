@@ -6,11 +6,19 @@ h1{
 
 .leftbar{
   float: left;
+  width: auto;
   padding-right: 10px;
-}
+  border: solid black;
+  border-width: 20px;
+  margin: 10px;
+  background-color: sandybrown;
+  display: block;
+  box-sizing: border-box;
+} <!--this leftbar is a real PITA, I have to check if I need 'display:block' -->
 
 .veggies{
   color: green;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 50px;
 }
+
