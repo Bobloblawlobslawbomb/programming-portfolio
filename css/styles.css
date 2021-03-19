@@ -14,7 +14,7 @@ h1{
   background-color: sandybrown;
   display: block;
   box-sizing: border-box;
-} <!--this leftbar is a real PITA, I have to check if I need 'display:block' -->
+} 
 
 .veggies{
   color: green;
