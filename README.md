@@ -28,9 +28,7 @@ _A showcase of the works in progress and finished projects from Giancarlo Vigner
 3. Double click index.html or right-click, (select 'open with...') and choose which program to open or view files
 4. Profit 
 
-_{Leave nothing to chance. It should be easy for anyone to run your app. All the things necessary to make it happen, including otherr software or hardware setups needed. A good idea may be to delete the folder from your local machine and re-clone the project from Github and writting down all the necessary steps to get the application working again}_
-
-*_{link to site on Github pages}_
+* (https://github.com/Bobloblawlobslawbomb.github.io/programming-portfolio)
 
 ##Known Bugs
 
@@ -38,9 +36,9 @@ _{Leave nothing to chance. It should be easy for anyone to run your app. All the
 
 ##Notes
 
-1._at 1 point I did break .veggies -- tried to comment out code above and ended up commenting out everything below_
-2._css rule: '.leftbar' bugs me; I want to play with width, display, and box-sizing to see how they effect the page look._
-3._I plan to read more about the box model and play with it on a branch of this project later_
+1. _at 1 point I did break .veggies -- tried to comment out code above and ended up commenting out everything below_
+2. _css rule: '.leftbar' bugs me; I want to play with width, display, and box-sizing to see how they effect the page look._
+3. _I plan to read more about the box model and play with it on a branch of this project later_
 
 ##copyright 2021 Giancarlo Vigneri
 
